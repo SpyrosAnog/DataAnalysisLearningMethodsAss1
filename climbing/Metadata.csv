@@ -1,0 +1,2 @@
+version,device name,recording epoch time,recording time,recording timezone,platform,appVersion,device id,sensors,sampleRateMs,standardisation
+3,iPhone 14,1758301344951,2025-09-19_17-02-24,Europe/Amsterdam,ios,1.46,8b81f4e6-c858-48b2-9dac-73b87f6f6cef,Accelerometer|Gravity|Gyroscope|Annotation,10|10|10|,true
